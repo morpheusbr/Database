@@ -1,9 +1,9 @@
 {
-    "name": "morpheusbr/auth",
-    "description": "Sistema Auth",
+    "name": "morpheusbr/database",
+    "description": "Classe de Banco de dados",
     "type": "project",
-    "keywords": ["login","user"],
-    "homepage": "https://github.com/morpheusbr/Auth",
+    "keywords": ["db","pdo"],
+    "homepage": "https://github.com/morpheusbr/Database",
     "type": "library",
     "license": "MIT",
     "authors": [
